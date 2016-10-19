@@ -1,3 +1,4 @@
+console.log('version 2')
 var AutoUpdater = require('auto-updater');
 
     var autoupdater = new AutoUpdater({
